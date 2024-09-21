@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udaygiri&show_icons=true&locale=en" alt="udaygiri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udaygiri&" alt="udaygiri" /></p>
+<a href="https://app.daily.dev/udaygiri"><img src="https://api.daily.dev/devcards/v2/IG7G91pgJo25hKkA0rtJV.png?type=wide&r=mw1" width="652" alt="Udaygiri D. Aparnathi's Dev Card"/></a>
